@@ -1,0 +1,9 @@
+<Alloy>
+    <Window title="Pattern Lock">
+        <View id="view" top='20' />
+
+        <Button bottom="20" left='10' title=" SET WRONG " onClick="showWrongPattern" />
+        <Button bottom="20" title=" CLEAR " onClick="clearPattern" />
+		<Button bottom="20" right="10" title=" SET CORRCT " onClick="showCorrectPattern" />
+    </Window>
+</Alloy>

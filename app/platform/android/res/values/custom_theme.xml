@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#ffbc77</color>
+    <color name="colorPrimaryDark">#cf9458</color>
+    <color name="colorAccent">#4064ff</color>
+    <color name="colorControlHighlight">#2eba4d</color>
+    <color name="colorButtonNormal">#a7066f</color>
+
+    <style name="MainAppTheme" parent='Theme.AppCompat.Light'>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+		<item name="colorControlHighlight">@color/colorControlHighlight</item>
+        <item name="colorButtonNormal">@color/colorButtonNormal</item>
+    </style>
+
+    <style name="FullscreenLightTheme" parent="Theme.AppCompat.Light">
+        <item name="android:windowFullscreen">true</item>
+
+        <item name="android:windowActionBar">false</item>
+        <item name="windowActionBar">false</item>
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="FullscreenDarkTheme" parent="Theme.AppCompat">
+        <item name="android:windowFullscreen">true</item>
+
+        <item name="android:windowActionBar">false</item>
+        <item name="windowActionBar">false</item>
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
