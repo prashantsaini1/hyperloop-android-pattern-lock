@@ -13,3 +13,7 @@ Contains Hyperloop sample code for Android PatternLock view using this library [
 | Initial UI             |  Pattern Drawn |  Pattern Result   |  Set Wrong by code  |
 |:-------------------------:|:-------------------------:|:------------------------:|:------------------------:|
 |  ![](https://github.com/prashantsaini1/hyperloop-android-pattern-lock/blob/master/screenshots/1.png)   |  ![](https://github.com/prashantsaini1/hyperloop-android-pattern-lock/blob/master/screenshots/2.png)  |  ![](https://github.com/prashantsaini1/hyperloop-android-pattern-lock/blob/master/screenshots/3.png)  | ![](https://github.com/prashantsaini1/hyperloop-android-pattern-lock/blob/master/screenshots/4.png)
+
+## Contributions
+
+If you enjoy this module, feel free to contribute with your PR or [donate](https://paypal.me/prashantsainii) :-)
